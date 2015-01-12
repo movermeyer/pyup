@@ -1,3 +1,7 @@
+[![Latest Version](https://pypip.in/v/pyup/badge.png)](https://pypi.python.org/pypi/pyup/)
+[![Downloads](https://pypip.in/d/pyup/badge.png?period=month)](https://pypi.python.org/pypi/pyup/)
+[![License](https://pypip.in/license/pyup/badge.png)](https://pypi.python.org/pypi/pyup/)
+
 # pyup
 Markup generation tool
 
