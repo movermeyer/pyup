@@ -1,6 +1,6 @@
-[![Latest Version](https://pypip.in/v/pyup/badge.png)](https://pypi.python.org/pypi/pyup/)
-[![Downloads](https://pypip.in/d/pyup/badge.png?period=month)](https://pypi.python.org/pypi/pyup/)
-[![License](https://pypip.in/license/pyup/badge.png)](https://pypi.python.org/pypi/pyup/)
+[![Latest Version](https://img.shields.io/pypi/v/pyup.svg)](https://pypi.python.org/pypi/pyup/)
+[![Downloads](https://img.shields.io/pypi/dm/pyup.svg)](https://pypi.python.org/pypi/pyup/)
+[![License](https://img.shields.io/pypi/l/pyup.svg)](https://pypi.python.org/pypi/pyup/)
 
 # pyup
 Markup generation tool
